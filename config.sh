@@ -6,8 +6,8 @@ GITHUB_EMAIL=superuserxyyx@gmail.com
 KBUILD_BUILD_USER="eitri"
 KBUILD_BUILD_HOST="nidavellir"
 
-export oem=nokia
-export device=B2N_sprout
+export oem=xiaomi
+export device=kenzo
 
 ROM="PixelExperience"
 manifest_url="https://github.com/PixelExperience/manifest"
@@ -16,4 +16,4 @@ branch="pie"
 
 release_repo="AnggaR96s/bot_builds"
 
-timezone="Asia/Kolkata"
+timezone="Asia/Jakarta"
