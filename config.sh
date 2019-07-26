@@ -3,16 +3,16 @@
 GITHUB_USER=AnggaR96s
 GITHUB_EMAIL=superuserxyyx@gmail.com
 
-KBUILD_BUILD_USER="eitri"
-KBUILD_BUILD_HOST="nidavellir"
+KBUILD_BUILD_USER="AnggaR96s"
+KBUILD_BUILD_HOST="BuildBot"
 
 export oem=xiaomi
 export device=kenzo
 
-ROM="PixelExperience"
-manifest_url="https://github.com/PixelExperience/manifest"
-export rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
-branch="pie"
+ROM="crDroid"
+manifest_url="https://github.com/crdroidandroid/android.git"
+export rom_vendor_name="lineage" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+branch="9.0"
 
 release_repo="AnggaR96s/bot_builds"
 
